@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm MikaKC! Just an ordinary person \¯\_(ツ)_/¯.
+#### I'm MikaKC! Just an ordinary person ¯\\_(ツ)_/¯.
 
 
 - 🔭 I’m currently working on some awesome stuff Cocos2d-x/Geometry Dash related!
