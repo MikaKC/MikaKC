@@ -11,3 +11,6 @@
 - 📫 How to reach me: My discord tag is `Enz#7402`
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started coding at the age of 7, with a python module called Turtle Graphics!
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
