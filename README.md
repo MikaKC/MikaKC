@@ -10,7 +10,7 @@
 - 💬 Ask me about anything that envolves C# or C++, or game modding
 - 📫 How to reach me: My discord tag is `Enz#7402`
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I started coding 
+- ⚡ Fun fact: I started coding (false i started coding 4 years aog)
 
 
 [![MikaKC's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikakc&theme=dracula)](https://github.com/MikaKC/)
