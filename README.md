@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on any Geometry Dash mod ideas!
 - 🤔 I’m looking for help with anything
 - 💬 Ask me about anything that envolves C# or C++, or game modding
-- 📫 How to reach me: My discord tag is `Enz#7402`
+- 📫 How to reach me: My discord tag is `MikaKC#7402`
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started coding (false i started coding 4 years aog)
 
